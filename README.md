@@ -1,4 +1,4 @@
-# Todo Level 2 App
+# Todo-Advanced-Frontend
 
 ## Overview
 This is a **Full-Stack Todo App** that allows users to create, edit, delete, and manage tasks efficiently. The project consists of a **frontend (React)** and a **backend (Node.js with MongoDB)**.
@@ -91,8 +91,7 @@ The frontend code is contained within this repository. Everything is inside the 
 ### Frontend
 - React.js
 - React Hooks
-- Tailwind CSS
-- Axios (for API calls)
+
 
 ---
 
